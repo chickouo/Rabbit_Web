@@ -1,5 +1,12 @@
 let pictures = [
-    "https://cw1.tw/CW/images/article/201702/article-58a50e8280597.jpg", 
-    "https://taiwan17go.com/wp-content/uploads/2019/04/2019-04-02_125520.jpg", 
-    "https://linky.tw/wp/wp-content/uploads/2018/06/57eca2287749c_1024-1000x600.jpg"
+    "RandomSelector/images/7340db04f52a88033f4bb8dbd54fa93a.jpg",
+    "RandomSelector/images/6616270.jpg",
+    "RandomSelector/images/5o100080on6np41rs4n.jpg",
+    "RandomSelector/images/3042695549593030.jpg",
+    "RandomSelector/images/3046674c673275737775.jpg",
+    "RandomSelector/images/683cf37bbec3667aef6d17fb4f2a.jpg",
+    "RandomSelector/images/rabbityee.jpg",
+    "RandomSelector/images/403300024ooppn69968r.jpg",
+    "RandomSelector/images/gg.jpg",
+    "RandomSelector/images/1.jpg"
 ]

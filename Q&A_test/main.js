@@ -15,7 +15,7 @@ $(document).ready(function(){
                     "</label><br><br>"
                 );
             }
-            $("#startButton").attr("value", "Next");
+            $("#startButton").attr("value", "下一題");
         }
         else{
             // 尋訪選項是否被選取
@@ -25,11 +25,11 @@ $(document).ready(function(){
                          // 最後一次
                         if(isNaN(questions[currentQuiz].answers[i][1])){
                             let finalResult = questions[currentQuiz].answers[i][1];
-                            $("question").text(finalAnswers[finalResult[0]]);
+                            $("#question").text(finalAnswers[finalResult[0]].slice(0, 1));
                             $("#options").empty();
                             $("#options").append(finalAnswers[finalResult][1] + "<br><br>");
                             currentQuiz = null;
-                            $("#startButton").attr("value", "Restart");
+                            $("#startButton").attr("value", "重新開始");
                         }
                         else{
                             // next

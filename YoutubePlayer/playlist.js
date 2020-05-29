@@ -1,12 +1,16 @@
 //YouTube影片ID
 let playList = [
-    "2MtOpB5LlUA", //黃金之風處刑曲
-    "Jci4-gcdTzs", //JOJO鳥鳥
-    "5h5IbXNDSts" //JOJO特效曲
+    "77_B89x0kn0",
+    "IoY6TaL7AUs",
+    "u0inyToGYDM", 
+    "ZJU_6fs1nL4", 
+    "TpRQ8aidsOc"
 ];
 //播放起訖秒數
 let playTime = [
-    [224,268],
-    [74,132],
-    [75,80]  
+    [21,36],
+    [0,9],
+    [8,19],
+    [14,21],
+    [16,24]
 ]

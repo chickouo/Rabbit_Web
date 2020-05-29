@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("#courseTable").append("<tr><th>場次</th><th>時間</th><th>主題</th></tr>");  // 標題用th
+    $("#courseTable").append("<tr><th>次數</th><th>時間</th><th>主題</th></tr>");  // 標題用th
 
     let topicCount = topic.length;
 

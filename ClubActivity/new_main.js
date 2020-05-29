@@ -18,7 +18,7 @@ function setTable(){
  
     //一次產生固定標題列
     $("#courseTable").append(
-        "<tr><th>場次</th><th>時間</th><th>主題</th></tr>"
+        "<tr><th>次數</th><th>時間</th><th>主題</th></tr>"
     );
     //反覆產生資料列
     let topicCount = topicsArray.length;

@@ -7,8 +7,9 @@ body{
     background-image: url(images/grasses68.gif);
 }
 
-#talk{
-    height: 20px;
+#talkBox{
+    margin: 15px;
+    height: 50px;
     color: brown;
     font-size: 26px;
     font-weight: bold;
